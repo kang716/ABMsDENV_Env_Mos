@@ -14,6 +14,7 @@ Kang, J. Y., & Aldstadt, J. (2017). The Influence of Spatial Configuration of Re
 ![Spatially Explicit ABMs of DENV Transmission](./Figures/Figure.png)
 
 **Model Objectives**
+
 This model has been developed to test the hypothesis about the joint impacts of mosquito vector population structure and spatial configuration of residential area. 
 
 There are four scenarios as follows:
@@ -23,3 +24,5 @@ There are four scenarios as follows:
 * HomoSynth: Homogeneous mosquito population in a synthetic environment
 
 **Instruction**
+
+In order to run this project, [AnyLogic] [anylogiclink] [anylogiclink]: https://www.anylogic.com/downloads/ "goAnylogic" software  should be installed in your local environment. 
