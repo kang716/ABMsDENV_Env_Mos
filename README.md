@@ -12,3 +12,14 @@ This project provides spatially explicit agent-based models (ABMs) of Dengue Vir
 Kang, J. Y., & Aldstadt, J. (2017). The Influence of Spatial Configuration of Residential Area and Vector Populations on Dengue Incidence Patterns in an Individual-Level Transmission Model. International journal of environmental research and public health, 14(7), 792. DOI: https://doi.org/10.3390/ijerph14070792
 
 ![Spatially Explicit ABMs of DENV Transmission](./Figures/Figure.png)
+
+**Model Objectives**
+This model has been developed to test the hypothesis about the joint impacts of mosquito vector population structure and spatial configuration of residential area. 
+
+There are four scenarios as follows:
+* HeteroReal: Heterogeneous mosquito population in a realistic environment
+* HomoReal: Homogeneous mosquito population in a realistic environment
+* HeteroSynth: Heterogeneous mosqutio population in a synthetic environment
+* HomoSynth: Homogeneous mosquito population in a synthetic environment
+
+**Instruction**
