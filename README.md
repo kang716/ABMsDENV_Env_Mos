@@ -25,9 +25,11 @@ There are four scenarios as follows:
 
 ## **Instruction**
 
-In order to run this project, [AnyLogic](https://www.anylogic.com/downloads/) simulation software should be installed in your local environment. 
+In order to run this model, [AnyLogic](https://www.anylogic.com/downloads/) simulation software should be installed in your local environment. 
+
 "Personal Learning Edition (PLE)" limits creating a large number of dynamic agents (i.e., 50,000). 
-Due to this limit, this project may not be fully ran through "PLE" version. 
 
+Due to this limit, this project may not be properly ran through "PLE" version. 
 
+For the proper use of this model, please purchase "University Researcher version" or try free 60-day trial. 
 
