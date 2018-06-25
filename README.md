@@ -11,4 +11,4 @@ This project provides spatially explicit agent-based models (ABMs) of Dengue Vir
 
 Kang, J. Y., & Aldstadt, J. (2017). The Influence of Spatial Configuration of Residential Area and Vector Populations on Dengue Incidence Patterns in an Individual-Level Transmission Model. International journal of environmental research and public health, 14(7), 792. DOI: https://doi.org/10.3390/ijerph14070792
 
-![Spatially Explicit ABMs of DENV Transmission] ("~/Documents/GitHub/ABMofDengueV1/ScreenShot1.jpg")
+![Spatially Explicit ABMs of DENV Transmission] (https://github.com/kang716/ABMsDENV_Env_Mos/blob/master/Figures/ScreenShot1.jpg)
