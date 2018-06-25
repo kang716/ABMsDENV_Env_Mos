@@ -25,4 +25,4 @@ There are four scenarios as follows:
 
 **Instruction**
 
-In order to run this project, [AnyLogic] [anylogiclink] [anylogiclink]: https://www.anylogic.com/downloads/ "goAnylogic" software  should be installed in your local environment. 
+In order to run this project, [AnyLogic][anylogiclink] [anylogiclink]: https://www.anylogic.com/downloads/ "goAnylogic" software  should be installed in your local environment. 
